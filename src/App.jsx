@@ -23,7 +23,7 @@ function App() {
 
   return (
     <div className="app-container">
-      <h1>Новостная лента</h1>
+      <h1>Новостная лента!</h1>
 
       <CategoryFilter
         categories={categories}
